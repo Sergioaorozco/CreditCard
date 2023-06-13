@@ -58,7 +58,7 @@ function FormCC() {
         <Atropos className='my-atropos rounded-lg'>
           <div className='backdrop-blur-md bg-black w-96 h-56 rounded-lg flex px-4 py-4 flex-col justify-between'>
             <div className='flex justify-end'>
-              <img width={40} height={10} src='../assets/VisaWhite.svg' alt='logo de Visa Credit Card' />
+              <img width={40} height={10} src='./src/VisaWhite.svg' alt='logo de Visa Credit Card' />
             </div>
             <section className='text-left flex flex-col gap-y-5'>
               <img width='70' height='20' src='https://img.icons8.com/plasticine/100/sim-card-chip.png' alt='sim-card-chip' />
